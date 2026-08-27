@@ -1,4 +1,4 @@
-....# 🚀 AquaSense
+# 🚀 AquaSense
 
 > AI-Enabled Smart Water Monitoring and Conservation System
 
