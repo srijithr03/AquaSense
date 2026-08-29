@@ -174,7 +174,7 @@ The backend will run on `http://localhost:5000`.
 cd dashboard
 npm run dev
 ```
-The frontend will be available at `http://localhost:5173`.
+The frontend will be available at......... `http://localhost:5173`.
 
 ### Hardware Deployment
 Open `Hardwar_Code.py` (which contains C++ code) in the Arduino IDE, update the `WIFI_SSID`, `WIFI_PASSWORD`, and `SERVER_URL` constants, and flash it to your ESP32 board.
